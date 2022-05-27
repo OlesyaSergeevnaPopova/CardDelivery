@@ -1,0 +1,1 @@
+Задача №1 - Заказ доставки карты TEST: [![Build status](https://ci.appveyor.com/api/projects/status/rrp8dwsgrmdhj270?svg=true)](https://ci.appveyor.com/project/OlesyaSergeevnaPopova/carddelivery)
